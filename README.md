@@ -1,4 +1,4 @@
-# test
+# vueMagagePlatform
 
 > A Vue.js project
 

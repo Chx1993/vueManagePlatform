@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": [{
+    "createTime": "20201-1",
+    "data": [
+      "使用插件TerserPlugin,去除所有的console信息", 
+      "使用CompressionPlugin,开启gzip压缩", 
+      "忽略生产环境打包文件,使用外链cdn", 
+      "图片压缩", 
+      "路由按需加载", 
+      "使用optimization.minimize(true):压缩代码和optimization.splitChunks():分割代码",
+
+      "中英文切换功能", 
+      "项目401页面和404页面样式更新", "剔除项目easy-mock模拟数据功能", 
+      "首页新增项目更新日志列表展示", "首页新增访问量和下载量柱状图", "首页新增用户投资区域雷达图", "首页新增用户价格列表", "首页新增用户评论列表", "首页新增本项目技术栈progress"
+    ]
+  }]
+}

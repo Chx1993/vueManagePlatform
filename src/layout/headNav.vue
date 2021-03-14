@@ -26,7 +26,7 @@
                                     trigger="hover">
                                         <div class="wechat-area cflex">
                                             <p class="titles">加我微信</p>
-                                            <img :src="wechat.wechatImg" style="width:100px" alt="加我微信"  />
+                                            <img :src="wechat.wechatImg" style="width:150px" alt="加我微信"  />
                                         </div>
                                </el-popover>
                             </a>
@@ -41,7 +41,7 @@
                                     trigger="hover">
                                         <div class="wechat-area cflex">
                                             <p class="titles">加入qq群</p>
-                                            <img :src="qq.qqImg" style="width:100px" alt="加入qq群"  />
+                                            <img :src="qq.qqImg" style="width:150px" alt="加入qq群"  />
                                         </div>
                                 </el-popover>
                             </a>
@@ -87,7 +87,7 @@
 <script>
     import { mapGetters } from 'vuex';
     import { setToken,getToken } from '@/utils/auth'
-    import wechatImg from "@/assets/img/wechat.jpg";
+    import wechatImg from "@/assets/img/wechat.png";
     import qqImg from "@/assets/img/qq.png";
     import logoImg from "@/assets/img/logo.png";
     import IconSvg from '../icons/IconSvg.vue';

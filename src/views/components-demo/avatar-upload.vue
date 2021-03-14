@@ -21,11 +21,11 @@
 
 <script>
 import ImageCropper from '@/components/ImageCropper'
-import PanThumb from '@/components/PanThumb'
+import MyThumb from '@/components/MyThumb'
 
 export default {
   name: 'AvatarUploadDemo',
-  components: { ImageCropper, PanThumb },
+  components: { ImageCropper, MyThumb },
   data() {
     return {
       imagecropperShow: false,

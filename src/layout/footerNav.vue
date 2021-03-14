@@ -8,7 +8,6 @@
                 <span>github</span>
             </p>
             <p class="beian">Copyright ©202X Diary **ICP备********号</p>
-
         </div>
     </div>
 </template>
